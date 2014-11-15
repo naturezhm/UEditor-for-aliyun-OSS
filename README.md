@@ -32,3 +32,9 @@ UEditor-for-aliyun-OSS v1.0.0提供两种配置模式：
     ## endPoint=http://images.qikemi.com/
     endPoint=http://images.qikemi.com/
 ```
+
+### 技术支持
+
+邮箱：me@xiexianbin.cn xianbinxie@163.com
+QQ：10972072
+
