@@ -6,6 +6,7 @@ UEditor-for-aliyun-OSS v1.0.0提供两种配置模式：
 
 
     即不配置OSSKey.properties文件，该功能同ueditor官方提供的功能一致。
+    
 
 ### 2. 高级模式：
 
@@ -21,7 +22,7 @@ UEditor-for-aliyun-OSS v1.0.0提供两种配置模式：
 
     3) 配置OSSKey.properties文件，配置如下：
 
-    ```
+```
     # ALIYUN OSSClient Configure 
     useStatus=true
     bucketName=bucketmy-bucket-nameamesdfswers
@@ -29,4 +30,4 @@ UEditor-for-aliyun-OSS v1.0.0提供两种配置模式：
     secret=
     ## endPoint=http://images.qikemi.com/
     endPoint=http://images.qikemi.com/
-    ```
+```
